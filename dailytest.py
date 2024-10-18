@@ -61,10 +61,6 @@ workbook_id = '4a8e0197-fd49-416e-b594-6ff90c5ac4b8'
 sender_email = 'roberto@networkmedia.com'
 creators = [
     {'name': 'Allie Sparks', 'pay_to': 'Allie Sparks', 'email': 'analu.gcs@gmail.com', 'manager_1': 'Allie Sparks','type': 'Creator'},
-    {'name': 'Thomas Riccardo', 'pay_to': 'Thomas Riccardo', 'email': 'analu.gcs@gmail.com', 'manager_1': 'Thomas Riccardo','type': 'Creator'},
-    {'name': 'Elaine Hayhurst', 'pay_to': 'Elaine Hayhurst', 'email': 'analu.gcs@gmail.com', 'manager_1': 'Elaine Hayhurst','type':'Creator'},
-    {'name': 'Rebecca Jasgur', 'pay_to': 'Steve Jasgur', 'email': 'analu.gcs@gmail.com', 'manager_1': 'Rebecca Jasgur','type': 'creator1'},
-    {'name': 'Steve Jasgur', 'pay_to': 'Steve Jasgur', 'email': 'analu.gcs@gmail.com', 'manager_1': 'Steve Jasgur','type': 'creator2'},
 ]
 subject = "Check Now How Much You Made!"
 body = "Your earnings"
